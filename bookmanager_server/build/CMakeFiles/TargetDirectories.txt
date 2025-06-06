@@ -1,0 +1,3 @@
+/Users/kw/cppsoft/CLionProject/bookmanager_server/build/CMakeFiles/GateServer.dir
+/Users/kw/cppsoft/CLionProject/bookmanager_server/build/CMakeFiles/edit_cache.dir
+/Users/kw/cppsoft/CLionProject/bookmanager_server/build/CMakeFiles/rebuild_cache.dir
